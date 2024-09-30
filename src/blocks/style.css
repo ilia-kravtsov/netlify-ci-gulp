@@ -2,8 +2,12 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: darkgreen;
-  color: yellowgreen;
-  width: 100%;
-  min-height: 100%;
+  background-color: rgb(17, 17, 17);
+  color: white;
+  width: 100vw;
+  overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-self: center;
 }
